@@ -1,4 +1,5 @@
 # 🏌️‍♂️ VR Mini Golf Game
+![kvitkamqwertyu_Icon_for_game_golf_a_GTA_style_aesthetic_low_pol (3)](https://github.com/user-attachments/assets/ce0cf05e-02b7-45bd-969f-5a03e50610a3)
 
 This is a mini-golf game developed in Unity for VR, created over the span of **10 days** with approximately **40-50 hours** of effort. The project was inspired by the game *[Cloudlands: VR Minigolf](https://store.steampowered.com/app/425720/Cloudlands_VR_Minigolf/)* on Steam, and aims to bring a fun and immersive mini-golf experience to VR players.
 
