@@ -8,7 +8,6 @@ This is a mini-golf game developed in Unity for VR, created over the span of **1
 - 🏠 **Main Menu**: Includes customizable graphics and game settings.
 - 🏞️ **5 Unique Levels**: Challenging and diverse levels designed for a fun mini-golf experience.
 - 🏆 **Level Progression System**: Levels unlock sequentially as you complete each one.
-- 💾 **Progress Saving**: Your progress is saved so you can resume where you left off.
 - 🎥 **Trailer**: [Watch the trailer here](https://www.youtube.com/watch?v=uWGtGcNiVsc).
 - 🎶 **Music and Sound Effects**: Enjoy pleasant music and immersive sound effects throughout the game.
 - 🔄 **Respawn System**: Allows easy repositioning if you get stuck.
